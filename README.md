@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Paulo Vicente 👋
 
-<!--
-**PauloVToledo/PauloVToledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Software Engineer** focused on building reliable, maintainable, and scalable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About me
+
+* ⚙️ Backend development with **Python, FastAPI, REST APIs, and async architectures**
+* 🗄️ Working with **PostgreSQL, MongoDB, and Redis**
+* 🐳 Containerized environments with **Docker and Docker Compose**
+* 🚀 Interested in the complete software lifecycle: **design → development → testing → deployment → observability**
+* 🤖 Building applications and workflows powered by **LLMs and Generative AI**
+* 🧠 Learning more about **Distributed Systems, System Design, RAG, and AI Engineering**
+* 📚 I enjoy understanding **why systems work**, not just how to use them
+
+---
