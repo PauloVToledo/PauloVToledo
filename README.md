@@ -4,14 +4,13 @@
 
 ---
 
-## 🧑‍💻 About me
+## 👨‍💻 About me
 
-* ⚙️ Backend development with **Python, FastAPI, REST APIs, and async architectures**
-* 🗄️ Working with **PostgreSQL, MongoDB, and Redis**
-* 🐳 Containerized environments with **Docker and Docker Compose**
-* 🚀 Interested in the complete software lifecycle: **design → development → testing → deployment → observability**
-* 🤖 Building applications and workflows powered by **LLMs and Generative AI**
-* 🧠 Learning more about **Distributed Systems, System Design, RAG, and AI Engineering**
-* 📚 I enjoy understanding **why systems work**, not just how to use them
+- ⚙️ Backend Software Engineer — **Python, TypeScript, FastAPI, NestJS**
+- 🗄️ **PostgreSQL, MongoDB, Redis** and API integrations
+- ⚡ **Async architectures, automation, and scalable backend systems**
+- 🤖 **LLMs, RAG, Generative AI, and AI-powered workflows**
+- 🐳 **Docker, CI/CD, testing, and observability**
+- 📚 Exploring **Distributed Systems, System Design, and AI Engineering**
 
 ---
