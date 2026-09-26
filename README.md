@@ -6,12 +6,11 @@
 
 ## 👨‍💻 About me
 
-- 🤖 AI & Backend Engineering — LLMs, RAG, Generative AI
+- 🤖 AI & Backend Engineering — LLMs, RAG, structured generation, AI integrations
 - ⚙️ Python, TypeScript, FastAPI, NestJS
-- 🧠 LLM workflows, structured generation, and AI integrations
-- ⚡ Async architectures, APIs, automation, and backend systems
+- ⚡ Async architectures, APIs, automation, and distributed backend systems
 - 🗄️ PostgreSQL, MongoDB, Redis
 - 🐳 Docker, CI/CD, testing, and observability
-- 📚 Exploring AI Infrastructure, Distributed Systems, and System Design
+- 🧠 Exploring AI Infrastructure and System Design
 
 ---
