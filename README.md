@@ -1,16 +1,7 @@
 # Hi, I'm Paulo Vicente 👋
 
-**AI & Backend Engineer** building production-oriented LLM applications, AI workflows, and scalable backend systems.
+Software Engineer focused on **Backend Engineering, Applied AI, and Distributed Systems**.
 
----
+Passionate about continuous learning, complex engineering challenges, and building reliable systems with autonomy and technical depth.
 
-## 👨‍💻 About me
-
-- 🤖 AI & Backend Engineering — LLMs, RAG, structured generation, AI integrations
-- ⚙️ Python, TypeScript, FastAPI, NestJS
-- ⚡ Async architectures, APIs, automation, and distributed backend systems
-- 🗄️ PostgreSQL, MongoDB, Redis
-- 🐳 Docker, CI/CD, testing, and observability
-- 🧠 Exploring AI Infrastructure and System Design
-
----
+**Road to Staff Engineer.**
